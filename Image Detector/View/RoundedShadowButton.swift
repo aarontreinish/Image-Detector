@@ -1,6 +1,6 @@
 //
 //  RoundedShadowButton.swift
-//  FlowerDetector
+//  Image Detector
 //
 //  Created by Aaron Treinish on 1/30/19.
 //  Copyright © 2019 Aaron Treinish. All rights reserved.
